@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\bin\Debug\net10.0\8.exe
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\bin\Debug\net10.0\8.deps.json
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\bin\Debug\net10.0\8.runtimeconfig.json
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\bin\Debug\net10.0\8.dll
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\bin\Debug\net10.0\8.pdb
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\8.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\8.AssemblyInfo.cs
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\8.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\8.dll
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\refint\8.dll
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\8.pdb
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\8.genruntimeconfig.cache
+C:\Users\kevin\Desktop\KEVIN\Clases\UNIBE\5to cuatrimestre\1- Programacion\6- semana\Ejercicios Introductorios -1\8\obj\Debug\net10.0\ref\8.dll
