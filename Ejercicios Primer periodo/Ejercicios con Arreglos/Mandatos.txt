@@ -1,0 +1,21 @@
+Realice al menos 5 de los siguientes ejercicios usando arreglos usando lenguaje C#:
+
+ 1.       Leer 10 enteros, almacenarlos en un arreglo y determinar en qué posición del arreglo está el mayor número leído.
+
+2.       Leer 10 enteros, almacenarlos en un arreglo y determinar en qué posición de del arreglo está el mayor número par leído.
+
+3.       Leer 10 enteros, almacenarlos en un arreglo y determinar en qué posición del arreglo está el mayor número primo leído.
+
+4.       Leer 10 números enteros, almacenarlos en un arreglo y determinar cuántos números de los almacenados en dicho arreglo comienzan en dígito primo
+
+5.       Leer 10 números enteros, almacenarlos en un arreglo y determinar en qué posición se encuentra el número primo con mayor cantidad de dígitos pares.
+
+6.       Leer 10 números enteros, almacenarlos en un arreglo y determinar en qué posiciones se encuentran los números con más de 3 dígitos
+
+7.       Leer 10 números enteros, almacenarlos en un arreglo y determinar a cuánto es igual el promedio entero de los datos del arreglo
+
+8.       Leer 10 números enteros, almacenarlos en un arreglo y determinar cuántos números negativos hay.
+
+9.       Leer 10 números enteros, almacenarlos en un arreglo y calcular la factorial a cada uno de los números leídos almacenándolos en otro arreglo
+
+10.   Leer 10 números enteros, almacenarlos en un arreglo. Luego leer un entero y determinar cuántos divisores exactos tiene este último número entre los valores almacenados en el arreglo.
